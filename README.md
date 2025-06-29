@@ -128,9 +128,4 @@ GraniteTestGen solves these by generating high-quality tests in under 30 seconds
 
 ---
 
-## 📄 License
-This project is open-source under the MIT License.
-
----
-
 > _"Turning specs into code. Instantly."_

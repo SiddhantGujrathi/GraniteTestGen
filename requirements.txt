@@ -1,0 +1,6 @@
+flask==2.3.3
+requests==2.31.0
+python-dotenv==1.0.0
+pyyaml==6.0.1
+openapi-spec-validator==0.7.1
+gunicorn==21.2.0

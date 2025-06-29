@@ -1,0 +1,5 @@
+**/.env
+**/.env.*
+**/.envrc
+ai-test-generator/__pycache__
+*.pyc
